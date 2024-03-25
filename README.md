@@ -7,4 +7,4 @@
 - Позволяет работать со списком ссылок.
 - Параметры можно посмотреть запустив скрипт без параметров либо по ключу --help.
 
-Основано на скрипте [voice-over-translation](https://github.com/ilyhalight/voice-over-translation)
+Основано на скрипте [vot-cli](https://github.com/FOSWLY/vot-cli)
