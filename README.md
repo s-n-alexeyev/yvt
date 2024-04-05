@@ -8,4 +8,5 @@ The operation is based on the [vot-cli](https://github.com/FOSWLY/vot-cli) scrip
 - Default encoding is done with a bitrate of 450 Kbit, video codec - h264, audio codec - aac.
 - It allows working with a list of links.
 - Parameters can be viewed by running the script without parameters or using the `--help key`.
+
 ![screenshot](/img/example.png)
