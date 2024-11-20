@@ -40,7 +40,7 @@ MESSAGES=(
     # Russian
     ["ru_args"]="Аргументы"
     ["ru_args_bitrate"]="Задать битрейт в Kbit"
-    ["ru_args_copymode"]="Задать режим без перекодироки потоков (1 - true, 0 - false)"
+    ["ru_args_copymode"]="Задать режим без перекодировки потоков (1 - true, 0 - false)"
     ["ru_args_lang"]="Задать язык перевода (en, ru, kk)"
     ["ru_args_file"]="Задать файл со списком ссылок"
     ["ru_args_orig"]="Задать исходный язык (en, ru, kk, zh, ko, ar, fr, it, es, de, ja)"
